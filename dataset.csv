@@ -1,0 +1,37 @@
+match_id,season,date,team1,team2,venue,city,toss_winner,toss_decision,winner,win_by_runs,win_by_wickets,player_of_match
+1,2023,2023-02-23,Royal Challengers Bengaluru,UP Warriorz,M. Chinnaswamy Stadium,Bengaluru,UP Warriorz,bat,Royal Challengers Bengaluru,19,0,Player_17
+2,2023,2023-02-24,Mumbai Indians,Gujarat Giants,Brabourne Stadium,Mumbai,Mumbai Indians,field,Mumbai Indians,0,1,Player_25
+3,2023,2023-02-25,Mumbai Indians,UP Warriorz,Brabourne Stadium,Mumbai,UP Warriorz,field,Mumbai Indians,26,0,Player_4
+4,2023,2023-02-26,Royal Challengers Bengaluru,Gujarat Giants,M. Chinnaswamy Stadium,Bengaluru,Gujarat Giants,bat,Royal Challengers Bengaluru,0,5,Player_2
+5,2023,2023-02-28,Delhi Capitals,UP Warriorz,Arun Jaitley Stadium,Delhi,Delhi Capitals,field,Delhi Capitals,0,6,Player_19
+6,2023,2023-03-01,Delhi Capitals,Gujarat Giants,Arun Jaitley Stadium,Delhi,Delhi Capitals,bat,Gujarat Giants,0,2,Player_8
+7,2023,2023-03-02,UP Warriorz,Gujarat Giants,BRSABV Ekana Stadium,Lucknow,Gujarat Giants,field,UP Warriorz,0,3,Player_12
+8,2023,2023-03-04,Delhi Capitals,Royal Challengers Bengaluru,Arun Jaitley Stadium,Delhi,Delhi Capitals,field,Royal Challengers Bengaluru,43,0,Player_21
+9,2023,2023-03-05,Mumbai Indians,Delhi Capitals,Brabourne Stadium,Mumbai,Mumbai Indians,bat,Mumbai Indians,0,4,Player_22
+10,2023,2023-03-07,Mumbai Indians,Royal Challengers Bengaluru,Brabourne Stadium,Mumbai,Mumbai Indians,bat,Royal Challengers Bengaluru,0,7,Player_9
+11,2023,2023-03-08,Royal Challengers Bengaluru,UP Warriorz,M. Chinnaswamy Stadium,Bengaluru,Royal Challengers Bengaluru,field,Royal Challengers Bengaluru,25,0,Player_16
+12,2023,2023-03-10,Mumbai Indians,Delhi Capitals,Brabourne Stadium,Mumbai,Mumbai Indians,field,Mumbai Indians,0,6,Player_21
+13,2024,2024-02-23,Mumbai Indians,Delhi Capitals,Brabourne Stadium,Mumbai,Delhi Capitals,field,Mumbai Indians,37,0,Player_16
+14,2024,2024-02-24,Delhi Capitals,UP Warriorz,Arun Jaitley Stadium,Delhi,Delhi Capitals,bat,Delhi Capitals,32,0,Player_20
+15,2024,2024-02-25,Mumbai Indians,Gujarat Giants,Brabourne Stadium,Mumbai,Gujarat Giants,field,Gujarat Giants,0,5,Player_18
+16,2024,2024-02-26,Royal Challengers Bengaluru,Gujarat Giants,M. Chinnaswamy Stadium,Bengaluru,Royal Challengers Bengaluru,field,Gujarat Giants,0,2,Player_10
+17,2024,2024-02-28,UP Warriorz,Gujarat Giants,BRSABV Ekana Stadium,Lucknow,UP Warriorz,field,UP Warriorz,0,3,Player_17
+18,2024,2024-02-29,Delhi Capitals,Gujarat Giants,Arun Jaitley Stadium,Delhi,Gujarat Giants,bat,Delhi Capitals,39,0,Player_25
+19,2024,2024-03-01,Mumbai Indians,Royal Challengers Bengaluru,Brabourne Stadium,Mumbai,Royal Challengers Bengaluru,field,Mumbai Indians,0,5,Player_8
+20,2024,2024-03-02,Delhi Capitals,Royal Challengers Bengaluru,Arun Jaitley Stadium,Delhi,Delhi Capitals,bat,Delhi Capitals,0,2,Player_25
+21,2024,2024-03-03,Mumbai Indians,UP Warriorz,Brabourne Stadium,Mumbai,Mumbai Indians,field,UP Warriorz,21,0,Player_17
+22,2024,2024-03-05,Royal Challengers Bengaluru,UP Warriorz,M. Chinnaswamy Stadium,Bengaluru,Royal Challengers Bengaluru,bat,UP Warriorz,0,6,Player_15
+23,2024,2024-03-07,Mumbai Indians,Gujarat Giants,Brabourne Stadium,Mumbai,Mumbai Indians,field,Mumbai Indians,7,0,Player_11
+24,2024,2024-03-09,Royal Challengers Bengaluru,Delhi Capitals,M. Chinnaswamy Stadium,Bengaluru,Royal Challengers Bengaluru,field,Royal Challengers Bengaluru,0,3,Player_19
+25,2025,2025-02-23,Royal Challengers Bengaluru,UP Warriorz,M. Chinnaswamy Stadium,Bengaluru,UP Warriorz,bat,UP Warriorz,0,8,Player_7
+26,2025,2025-02-24,Mumbai Indians,UP Warriorz,Brabourne Stadium,Mumbai,UP Warriorz,bat,UP Warriorz,0,4,Player_4
+27,2025,2025-02-25,Delhi Capitals,Royal Challengers Bengaluru,Arun Jaitley Stadium,Delhi,Royal Challengers Bengaluru,field,Delhi Capitals,0,1,Player_22
+28,2025,2025-02-26,Mumbai Indians,Royal Challengers Bengaluru,Brabourne Stadium,Mumbai,Mumbai Indians,field,Royal Challengers Bengaluru,20,0,Player_7
+29,2025,2025-02-27,Delhi Capitals,UP Warriorz,Arun Jaitley Stadium,Delhi,UP Warriorz,bat,Delhi Capitals,0,8,Player_8
+30,2025,2025-02-28,Delhi Capitals,Gujarat Giants,Arun Jaitley Stadium,Delhi,Gujarat Giants,bat,Delhi Capitals,10,0,Player_25
+31,2025,2025-03-01,Mumbai Indians,Delhi Capitals,Brabourne Stadium,Mumbai,Mumbai Indians,field,Mumbai Indians,30,0,Player_2
+32,2025,2025-03-02,UP Warriorz,Gujarat Giants,BRSABV Ekana Stadium,Lucknow,Gujarat Giants,bat,Gujarat Giants,0,8,Player_10
+33,2025,2025-03-04,Mumbai Indians,Gujarat Giants,Brabourne Stadium,Mumbai,Gujarat Giants,bat,Mumbai Indians,8,0,Player_19
+34,2025,2025-03-05,Royal Challengers Bengaluru,Gujarat Giants,M. Chinnaswamy Stadium,Bengaluru,Gujarat Giants,bat,Royal Challengers Bengaluru,0,3,Player_2
+35,2025,2025-03-06,Royal Challengers Bengaluru,Gujarat Giants,M. Chinnaswamy Stadium,Bengaluru,Royal Challengers Bengaluru,field,Royal Challengers Bengaluru,26,0,Player_8
+36,2025,2025-03-08,Mumbai Indians,Delhi Capitals,Brabourne Stadium,Mumbai,Mumbai Indians,field,Mumbai Indians,0,6,Player_4
