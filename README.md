@@ -11,7 +11,7 @@ as the real Kaggle WPL dataset. The 2023, 2024, and 2025 **finals are real**
 (Mumbai Indians won 2023 & 2025, RCB won 2024), but individual league-stage match
 results are randomly generated so the project works end-to-end out of the box.
 
-**Before submitting this as a resume project**, download the real dataset and
+ download the real dataset and
 replace `dataset.csv` with it (same headers, so nothing else in the project needs
 to change):
 🔗 https://www.kaggle.com/datasets/sahiltailor/womens-premier-league-2023-2024-ball-by-ball
